@@ -7,6 +7,17 @@ question, visitors can choose between a fixed number of answers.
 
 Detailed documentation is in the "docs" directory.
 
+Install the APP
+------------------
+
+pip install django-app-master.gz
+
+
+Uninstall the APP
+-------------------
+pip uninstall django-ngpolls
+
+
 Quick start
 -----------
 
