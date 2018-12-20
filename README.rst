@@ -10,7 +10,7 @@ Detailed documentation is in the "docs" directory.
 Install the APP
 ------------------
 
-pip install django-app-master.gip
+pip install django-app-master.zip
 
 
 Uninstall the APP
