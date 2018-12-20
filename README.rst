@@ -10,7 +10,7 @@ Detailed documentation is in the "docs" directory.
 Install the APP
 ------------------
 
-pip install django-app-master.gz
+pip install django-app-master.gip
 
 
 Uninstall the APP
@@ -37,7 +37,7 @@ Quick start
 	    path('polls/', include('polls.urls')),
 	]
 
-3. Run `python manage.py migrate 7000` to create the polls models.
+3. Run python manage.py migrate 7000 to create the polls models.
 
 4. Start the development server and visit http://127.0.0.1:7000/admin/
    to create a poll (you'll need the Admin app enabled).
