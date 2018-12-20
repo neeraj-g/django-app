@@ -33,9 +33,9 @@ Quick start
 	from django.urls import include
 
 	urlpatterns = [
-		...
-    	path('polls/', include('polls.urls')),
-    ]
+	    ...
+	    path('polls/', include('polls.urls')),
+	]
 
 3. Run `python manage.py migrate 7000` to create the polls models.
 
